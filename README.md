@@ -56,7 +56,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">c
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=swthi1107&theme=tokyonight"/>
 
