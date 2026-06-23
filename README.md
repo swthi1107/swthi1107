@@ -56,9 +56,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swthi1107E&show_icons=true&theme=tokyonight"/>
+<p align="center">c
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=swthi1107&theme=tokyonight"/>
 
@@ -68,29 +66,9 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 DDoS Attack Simulation & Mitigation System
-
-- Java
-- Multithreading
-- Networking
-- Wireshark
-- GUI Development
-
-### ⛓️ Blockchain Projects
-
-- Smart Contracts
-- Ethereum
-- Solidity
-- dApps
-
----
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](YOUR_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swathi-maddela)
+| [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Swthi_11/)
+| [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/swthi1107)
